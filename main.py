@@ -20,8 +20,10 @@ def puntaje(x,y):
   return puntos_ganados
 
 
-x=int(input("grados Horizontales del Dardo x:"))
-y=int(input("grados Verticales del Dardo y:"))
+#x=int(input("grados Horizontales del Dardo x:"))
+#y=int(input("grados Verticales del Dardo y:"))
+x = 0
+y = 0
 resultado=puntaje(x,y)
 
 print(resultado)
