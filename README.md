@@ -17,7 +17,7 @@ En nuestro caso particular del juego, la diana recompensa con 4 cantidades difer
     $5 < r <= 10$
 - Si el dardo cae en el círculo central de la diana, el jugador gana 5 puntos. Es decir, si $r$ está entre 1 abierto y 5 cerrado, o sea: 
 
-    $1 < r <= 5$
+    $1 < r = 5$
 - Si el dardo cae en el círculo interior de la diana, el jugador gana 10 puntos. Es decir, si $r$ es menor o igual que 1, o sea: 
 
     $r <= 1$
@@ -39,8 +39,8 @@ $\sqrt{(x - a)^2 + (y - b)^2} = r$
 Esta es la fórmula general para los puntos ($x$, $y$) que pertenecen a una circunferencia con centro ($a$, $b$) y radio $r$.
 
 ### ¿Cómo averiguar la raíz cuadrada en Python?
-
-Vayan a este enlace: [Funciones matemáticas](https://docs.python.org/es/3/library/math.html#math.sqrt)
+https://docs.python.org/es/3/library/math.html#math.sqrt
+Vayan a este enlace: [Funciones matemáticas]()
 
 
 ### Recomendaciones del profe
